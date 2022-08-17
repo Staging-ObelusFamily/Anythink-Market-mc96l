@@ -10,6 +10,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-
-rin docker-compose up
-
+run docker-compose up
